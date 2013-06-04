@@ -1,5 +1,9 @@
 ---
-- name: Jason
-  uri: https://www.google.com/calendar/ical/sv0th5bubn5aq5d3po4olcscis%40group.calendar.google.com/public/basic.ics
-- name: KV Hameln-Pyrmont
-  uri: https://www.google.com/calendar/ical/iftrfvuo9l6v2bqa3ceagl0eo4%40group.calendar.google.com/public/basic.ics
+https://www.google.com/calendar/ical/sv0th5bubn5aq5d3po4olcscis%40group.calendar.google.com/public/basic.ics:
+  name: NDS Pirat Jason
+https://www.google.com/calendar/ical/iftrfvuo9l6v2bqa3ceagl0eo4%40group.calendar.google.com/public/basic.ics:
+  name: NDS KV Hameln-Pyrmont
+https://oc.piraten-nds.de/remote.php/caldav/calendars/public_user/bundespresse_shared_by_mdrenger?export:
+  name: Bund Presse
+https://oc.piraten-nds.de/remote.php/caldav/calendars/public_user/agwahlkampf_shared_by_admin?export:
+  name: NDS AG Wahlkampf
